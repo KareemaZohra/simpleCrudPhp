@@ -1,0 +1,90 @@
+header{
+	height: 50px;
+    padding: 25px 0px;
+	width: 100%;
+	background-color: blue;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+.aside ul{
+    list-style-type: square
+}
+.aside a{
+    color: white;
+}
+#main{
+	height: 400px;
+	width: 100%;
+	background-color: yellow;
+}
+footer{
+	height: 100px;
+	width: 100%;
+	background-color: blue;
+}
+.aside{
+	height: 400px;
+	width: 150px;
+	background-color: green;
+	float: left;
+}
+.reg{
+	height: 150px;
+	width: 400px;
+	border: 1px solid black;
+	float: left;
+/*	margin-left: 100px;
+	margin-top: 25px;*/
+	margin: 25px 99px;
+	padding: 100px 30px;
+}
+input{
+	margin:5px;
+	padding: 5px;
+}
+textarea{
+	margin:5px;
+	width: 380px;
+	height: 80px;
+}
+/*display page*/
+.pp{
+	height: 180px;
+	width: 200px;
+    border-bottom: 2px solid black;
+}
+.profile{
+    float: left;
+}
+.pinner{
+    height: 250px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.btnholder{
+    text-align: center;
+}
+.btnholder a{
+	text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.edit{
+    background-color: blue; 
+}
+.del{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
